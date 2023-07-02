@@ -1,0 +1,64 @@
+[
+   
+    {
+        "CategoryName": "Dosa",
+        "name": "Masala Dosa",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "half": "170",
+                "full": "250"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Dosa",
+        "name": "Sada Dosa",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "half": "150",
+                "full": "230"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Dosa",
+        "name": "Mix Veg Dosa",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "half": "200",
+                "full": "350"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Dosa",
+        "name": "Aloo Dosa",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "half": "150",
+                "full": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Dosa",
+        "name": "Indian Dosa",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "half": "100",
+                "full": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    }
+
+]
