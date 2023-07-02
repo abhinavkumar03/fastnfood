@@ -14,7 +14,8 @@ export default function Cart() {
 
     const handleCheckOut = async ()=> {
         let userEmail = localStorage.getItem("userEmail");
-        let response = await fetch("http://localhost:5000/api/orderData",{
+        // let response = await fetch("http://localhost:5000/api/orderData",{
+        let response = await fetch("https://fastnfood.onrender.com/api/orderData",{
             method:"POST",
             headers:{
                 'User-Agent':'Thunder Client (https://www.thunderclient.com)',

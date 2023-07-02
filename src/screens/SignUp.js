@@ -24,7 +24,8 @@ const SignUp = () => {
         // console.log(latlong)
         let [lat, long] = latlong
         console.log(lat, long)
-        const response = await fetch("http://localhost:5000/api/auth/getlocation", {
+        // const response = await fetch("http://localhost:5000/api/auth/getlocation", {
+        const response = await fetch("https://fastnfood.onrender.com/api/auth/getlocation", {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
@@ -41,7 +42,8 @@ const SignUp = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        const response = await fetch("http://localhost:5000/api/createuser",{
+        // const response = await fetch("http://localhost:5000/api/createuser",{
+        const response = await fetch("https://fastnfood.onrender.com/api/createuser",{
             method:'POST',
             headers:{
                 "Accept":"*/*",

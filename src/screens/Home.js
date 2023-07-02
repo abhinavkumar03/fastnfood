@@ -11,7 +11,8 @@ const Home = () => {
     const [foodItem, setFoodItem] = useState([])
 
     const loadData = async () => {
-        let response = await fetch ("http://localhost:5000/api/foodData", {
+        // let response = await fetch ("http://localhost:5000/api/foodData", {
+        let response = await fetch ("https://fastnfood.onrender.com/api/foodData", {
             method: 'POST',
             headers: {
                 'User-Agent':'Thunder Client (https://www.thunderclient.com)',
